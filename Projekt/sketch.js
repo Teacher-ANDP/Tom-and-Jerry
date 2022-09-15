@@ -5,6 +5,7 @@ let a = speed;
 let b = 0;
 let d = 20;
 let imgSize = 100;
+let s = "Hello Github"
 
 function preload() {
   img = loadImage('jerry-vector-logo.PNG');
