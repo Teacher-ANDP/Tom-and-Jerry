@@ -15,7 +15,7 @@ let rY;
 let rlen;
 let eX;
 let eY; 
-let circleSpeed = 20; 
+let circleSpeed = 2; 
 let d = 50;
 
 function setup() { 
